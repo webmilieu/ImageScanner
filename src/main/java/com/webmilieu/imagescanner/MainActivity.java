@@ -123,8 +123,8 @@ public class MainActivity extends AppCompatActivity {
                 R = Color.red(pixel);
                 G = Color.green(pixel);
                 B = Color.blue(pixel);
-                //int gray = (int) (0.32 * R + 0.32 * G + 0.32 * B);
-                int gray = (int) (0.30 * R + 0.30 * G + 0.30 * B);
+                int gray = (int) (0.31 * R + 0.31 * G + 0.31 * B);
+               // int gray = (int) (0.30 * R + 0.30 * G + 0.30 * B);
 
                 // use 128 as threshold, above -> white, below -> black
                 if (gray > 128) {
