@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageScanner</string>
+    <string name="addpic">ADD A PIC</string>
+<string name="swipe">Swipe right to see the result</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
